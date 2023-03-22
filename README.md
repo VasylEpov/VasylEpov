@@ -7,6 +7,7 @@ I’ve been actively studying the full stack for 1+ year.
 
 🌐 Languages : English, Ukrainian
 
+---
 
 🔧 Technologies:
 
