@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👨‍💻 About me :
-I'am a Junior Full Stack Developer from Ukraine.
+I'am a Junior Data Analyst from Ukraine.
 
 📊 Power BI Portfolio — Vasyl Epov
 
